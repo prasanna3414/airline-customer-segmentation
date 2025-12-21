@@ -102,4 +102,13 @@ It is intended for **academic learning, portfolio demonstration, and practical u
 
 ---
 
+## Libraries&Tools
+
+- Pandas
+- Numpy
+- Scikit-learn
+- Plotly
+- Streamlit
+  
+
 © 2025 GitHub, Inc.
